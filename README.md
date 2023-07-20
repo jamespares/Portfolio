@@ -1,11 +1,7 @@
 # Portfolio
-A portfolio of projects to date. Includes work done in Power BI, Python and SQL. 
+A portfolio of projects to date. Includes work done in Python, SQL and Power BI. 
 
-Power BI Projects
-# 1
-# 2
-
-Python Project
+Python Projects
 # 1
 # 2
 # 3 
@@ -13,5 +9,9 @@ Python Project
 # 5 
 
 SQL Projects
+# 1
+# 2
+
+Power BI Projects
 # 1
 # 2
