@@ -1,1 +1,1 @@
-Task management program built in Python
+Task management program built in Python.
