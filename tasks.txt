@@ -1,0 +1,7 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+James,Lift boxes,Lift boxes onto relevant shelf,01/09/23,05/08/23,No
+Sam,Run,Run fast,01/01/01,01/01/01,No
+James,Run,Run fast to the library,02/09/23,09/12/23, No
+James,Jump,Jump high,01/11/2023,01/01/10, No
+J,J,J,2023-12-22,2023-08-04,NO
