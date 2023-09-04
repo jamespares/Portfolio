@@ -23,8 +23,7 @@ All task and user information including usernames and passwords are written to t
 
 The program gives special functionality to users logged in as admin. Only these will be able register new log-in details.
 
-Thank you and enjoy!
-James
+
 
  
 
