@@ -21,7 +21,7 @@ Task information includes:
 
 All task and user information including usernames and passwords are written to the tasks.txt and user.txt files in the repository.
 
-The program gives special functionality to users logged in as admin. Only these will be able register new log-in details.
+Only users logged in as admin will be able register new log-in details.
 
 
 
