@@ -4,20 +4,20 @@ Open .py file and .txt files in IDE and run .py file.
 
 **Overview:**
 
-This code constitutes a task management program which allows users to: 
-- log in
+This code constitutes a task management program which can be used by project managers to: 
+- log in to system
 - register new log-in details/add new users
-- add tasks to the system
-- view tasks assigned to them in the system
-- view all tasks in the system
+- add tasks
+- view all tasks
+- view only tasks assigned to them
 
 Task information includes: 
-- title
-- description
-- owner
+- title of task
+- task description
+- task owner
 - date registered
 - date due
-- task status
+- status of task
 
 All task and user information including usernames and passwords are written to the tasks.txt and user.txt files in the repository.
 
